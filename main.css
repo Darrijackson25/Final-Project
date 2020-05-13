@@ -1,0 +1,22 @@
+body {
+    margin : 20px;
+    background-color: beige;
+    font-family: 'Helvetica';
+    color: orange;
+    text-align : center;
+}
+
+
+.container {
+    min-width: 600px;
+    border-radius : 10%;
+    text-align : center;
+}
+
+
+.canvas {
+    margin: 20px;
+    background-color : darksalmon;
+    border-radius: 5%;
+    display : inline-block;
+}
